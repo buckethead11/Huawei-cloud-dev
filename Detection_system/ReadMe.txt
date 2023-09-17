@@ -2,6 +2,7 @@ To run the detection system, comprising of the following functions:
 1) Environment detection 
 2) Object Finder
 3) Color detection
+4) Active object/obstacle detection (Run active_detection.py)
 
 ***Please ensure the dependencies/packages are installed, and also yolov3, yolov3.weights are installed and added to the folder (Unable to upload them into this github repository due to file size limitations)
 yolov3.weights installation: https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
