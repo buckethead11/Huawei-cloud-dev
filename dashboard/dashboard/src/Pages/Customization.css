@@ -1,0 +1,38 @@
+/* Customization.css */
+
+.customization-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .parameter-list {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+  }
+  
+  .parameter-list li {
+    margin-bottom: 10px;
+  }
+  
+  /* Add background color to table cells */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Add spacing between feature and parameters */
+  .feature-cell {
+    padding-right: 20px; /* Adjust the spacing as needed */
+  }
+  
+  /* Add more styling as needed */
+  
